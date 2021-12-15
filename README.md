@@ -1,4 +1,4 @@
-# Valencia Digital Summit 2021: GeeksHubs Python Workshop
+# Valencia Digital Summit 2021: GeeksHubs Python Workshop -
 
 ![image](https://user-images.githubusercontent.com/216485/145850825-e2c27c44-582f-43fd-93c7-14802250e60c.png)
 ![digital-summit-2021](https://user-images.githubusercontent.com/216485/145852773-d4851e70-121d-414d-8272-1cc158f43e94.png)
